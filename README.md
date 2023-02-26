@@ -3,7 +3,7 @@
 
 參考課本：C++Primer(黃銘偉 譯)
 --------------------------
-![C++Primer](image/README/ShowCover.jpg)
+![C++Primer](image/ShowCover.jpg)
 --------------------------
 * [範例程式](sampleCode/README.md)
 
