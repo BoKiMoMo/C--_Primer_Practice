@@ -5,9 +5,7 @@ using namespace std;
 
 int main()
 {
-	Sales_item book;
-	cin >> book;
-	cout <<"\noutput¡G" << book << endl;
+	for (Sales_item item; cin >> item; cout << item << endl);
 	return 0;
 }
 
